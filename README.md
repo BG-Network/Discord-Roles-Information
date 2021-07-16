@@ -16,13 +16,11 @@
 
 <h3>Special Roles</h3>
 
-- Discord Employees: Ones who work at [Discord](https://discord.com).
-
 - Content Creator: Creators with 20k+ subscribers/followers.
 
 - Honourable Guest: Recognized members of the community or special guest of the server.
 
-- Nitro Booster: The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).
+- The Boosters: The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).
 
 <!--- YouTube Sponsor: Channel member of live channel i.e. [Ujjwal](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw). [Click here to join sponsor gang today](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw/join)!
 
@@ -52,6 +50,6 @@
  <a href="https://www.instagram.com/__its__divyansh__">
     <img alt="Divyansh Sharma's Instagram" width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/instagram.svg">
     </a>
-    <a href="#">
-    <img alt="Divyansh Sharma's Discord", width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/discord.svg">
+    <a href="https://discord.gg/hZTt6SpHwf">
+    <img alt="BG Netowork's Discord", width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/discord.svg">
     </a>
