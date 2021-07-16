@@ -1,19 +1,18 @@
 
 <div align="center">
     <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-    <h1>Discord Roles - Team Ujjwal</h1>
+    <h1>Discord Roles - BG Network</h1>
 </div>
 
 <h3>Staff Roles</h3>
 
 - Ths Admins: Divyansh Sharma & Mohit Verma. 
-//Discord: `UjjwalGamer#9853 [459683335979925504]`
 
 - Management: Looks after all core activities related to Ujjwal and team his team.
 
-- Discord Staff: Manages the server with rules and regulations. They have rights to take the necessary action against the offender.
+- Discord Operators: Manages the server with rules and regulations. They have rights to take the necessary action against the offender.
 
-- Minecraft Team: Manages our minecraft gaming server i.e. [TG Network](https://tgnetwork.in)!
+- Minecraft Operators: Manages our minecraft gaming server.
 
 <h3>Special Roles</h3>
 
