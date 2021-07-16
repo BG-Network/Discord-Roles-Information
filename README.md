@@ -8,7 +8,7 @@
 
 - Ths Admins: Divyansh Sharma & Mohit Verma. 
 
-- Management: Looks after all core activities related to Ujjwal and team his team.
+<!--- Management: Looks after all core activities related to Ujjwal and team his team.--->
 
 - Discord Operators: Manages the server with rules and regulations. They have rights to take the necessary action against the offender.
 
