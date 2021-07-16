@@ -6,7 +6,7 @@
 
 <h3>Staff Roles</h3>
 
-- Ths Admins: Divyansh Sharma & Mohit Verma. 
+- Ths Admins: Divyansh-OP & Mohit Verma. 
 
 <!--- Management: Looks after all core activities related to Ujjwal and team his team.--->
 
