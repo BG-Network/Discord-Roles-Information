@@ -36,15 +36,16 @@
 
 <h3>Level Roles</h3>
 
-- Level 10: Unlocks hidden channels.
+- Level 10: Unlocks Discord Games.
 - Level 20: External Emotes Perm.
 - Level 30: Add Reactions + Video Perm.
 - Level 40: Change Nickname Perm.
-- Level 50: DJ to access music bots.
+- Level 50: Special Surprise in the Minecraft Server.
 - Level 60: Gives Dyno AFK perms.
 - Level 70: Attach Files in general chat.
 - Level 80: Regular Talkshow with Ujjwal & #sponsor-chat access.
 - Level 90: Become part of exclusive stuffs.
-- Level 100: Honorable title of being on top.
+- Level 100: The Special Role in our Minecraft Server.
+- UNSTOPPABLE: The **Unstoppable** people in our server
 
 > *This information can be updated at any time as per the requirements in future!*
