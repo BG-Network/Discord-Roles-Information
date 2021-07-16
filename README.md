@@ -49,7 +49,7 @@
 - UNSTOPPABLE: The **Unstoppable** people in our server
 
 > *This information can be updated at any time as per the requirements in future!*
-> <a href="https://www.instagram.com/__its__divyansh__">
+ <a href="https://www.instagram.com/__its__divyansh__">
     <img alt="Divyansh Sharma's Instagram" width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/instagram.svg">
     </a>
     <a href="#">
