@@ -14,7 +14,7 @@
 
 - Minecraft Operators: Manages our minecraft gaming server.
 
-<h3>Special Roles</h3>
+<!---<h3>Special Roles</h3>
 
 - Discord Employees: Ones who work at [Discord](https://discord.com).
 
@@ -32,7 +32,7 @@
 
 - Designer: Ones who regularly does gfx or vfx work for Team Ujjwal.
 
-- Artist: Talented musicians present in the [server](https://discord.gg/ujjwalgamer).
+- Artist: Talented musicians present in the [server](https://discord.gg/ujjwalgamer).--->
 
 <h3>Level Roles</h3>
 
