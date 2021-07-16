@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
+    <img src="https:https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/BattleGroundsNetwork__1_-removebg-preview.png" width="128px" style="max-width:100%;">
     <h1>Discord Roles - BG Network</h1>
 </div>
 
