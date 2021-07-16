@@ -32,7 +32,7 @@
 
 - Designer: Ones who regularly does gfx or vfx work for Team Ujjwal.
 
-- Artist: Talented musicians present in the [server](https://discord.gg/ujjwalgamer).--->
+- Artist: Talented musicians present in the --->
 
 <h3>Level Roles</h3>
 
