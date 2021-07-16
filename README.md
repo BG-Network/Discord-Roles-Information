@@ -51,5 +51,5 @@
     <img alt="Divyansh Sharma's Instagram" width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/instagram.svg">
     </a>
     <a href="https://discord.gg/hZTt6SpHwf">
-    <img alt="BG Netowork's Discord", width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/discord.svg">
+    <img alt="BG Network's Discord", width="25px" src="https://raw.githubusercontent.com/Divyansh-OP/Divyansh-OP/master/assets/discord.svg">
     </a>
