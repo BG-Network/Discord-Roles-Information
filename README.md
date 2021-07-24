@@ -41,7 +41,7 @@
 - Level 50: DJ access to control player of music bots.
 - Level 60: Gives Dyno AFK perms.
 - Level 70: Attach Files in general chat.
-- Level 80: Be the part of highly exclusive stuff. (In short a kind of pre-release!).
+- Level 80: Be the part of highly exclusive stuff. (In short get announcement before than everyone!).
 - Level 90: Become part of exclusive stuffs.
 - Level 100: The Special Role in our Minecraft Server.
 - UNSTOPPABLE: The **Unstoppable** people in our server
